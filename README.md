@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Susannah</h1>
-<h3 align="center">London-based fullstack developer</h3>
+<h3 align="center">London-based Software Engineer</h3>
 
-- 🔭 I’m currently working on [Lengua Viva](https://lenguaviva.herokuapp.com/)
-
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **susannahtay@gmail.com**
+📫 **susannahtay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
